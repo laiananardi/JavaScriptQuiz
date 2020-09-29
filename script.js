@@ -131,7 +131,11 @@ function showResults() {
     }
 
     results.innerHTML = `${numCorrect} / ${questions.length}`
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> bcc7c65ce6dde6990dc5663adb5db2dd3ec6b617
 }
 
 

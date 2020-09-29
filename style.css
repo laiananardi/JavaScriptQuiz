@@ -166,7 +166,28 @@ p{
         width: 300px;
     }
     #quiz-section button{
+<<<<<<< HEAD
         width: 140px;
 }
 }
 
+=======
+        width: 90px;
+}
+}
+
+.slide{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 25px 40px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .active-slide{
+    opacity: 1;
+    z-index: 2;
+  }
+  
+>>>>>>> bcc7c65ce6dde6990dc5663adb5db2dd3ec6b617
