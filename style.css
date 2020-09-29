@@ -62,7 +62,7 @@ p{
     margin-top: 40px;
 }
 #quiz-section{
-    height: 250px;
+    height: 300px;
 }
 #quiz-section .question{
     margin: 15px 0;
@@ -92,7 +92,7 @@ p{
     padding: 5px 0;
     width: 150px;
     cursor: pointer;
-    margin-top: 180px;
+    margin-top: 210px;
 }
 #quiz-section button:hover{
     background: #20215fda;
