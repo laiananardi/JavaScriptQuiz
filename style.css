@@ -166,15 +166,13 @@ p{
         width: 300px;
     }
     #quiz-section button{
-<<<<<<< HEAD
+
         width: 140px;
-}
+    }
 }
 
-=======
-        width: 90px;
-}
-}
+
+
 
 .slide{
     position: absolute;
@@ -190,4 +188,4 @@ p{
     z-index: 2;
   }
   
->>>>>>> bcc7c65ce6dde6990dc5663adb5db2dd3ec6b617
+
