@@ -140,6 +140,9 @@ p{
     #inicial-section, #quiz-section, #result-section{
         width: 300px;
     }
+    #quiz-section button{
+        width: 90px;
+}
 }
 
 .slide{
